@@ -1,0 +1,47 @@
+body {
+  background-color: yellow;
+}
+h1 {
+  color: blue;
+  border: 2px solid red;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+	
+   color: red;
+   border: 2px solid powderblue;
+   font-family: courier;
+   font-size: 160%;
+   padding: 30px;
+   margin: 50px 50px 50px 50px;
+}
+table, th, td{
+	width:100%
+	border: 1px black;
+}
+.city{
+	background-color: black;
+	color:red;
+}
+.city p{
+	 font-size: 14px;
+	 font-weight: bold;
+}
+.container{
+	width: 100%;
+	height: 500px;
+}
+#mymyheader{
+	text-align: center;
+}
+.col1{
+background-color: black;
+color:red;
+}
+}
+.col2{
+background-color: red;
+color:blue;
+}
+}
